@@ -1,0 +1,1 @@
+Сalculation of the ground state of magnetization in ferromagnetic film consisting of four layers with alternating in – plane and out – of – plane magnetic anisotropy, placed in an external magnetic field applied along the “easy axis” direction. Tcl script for calculation in OOMMF.
